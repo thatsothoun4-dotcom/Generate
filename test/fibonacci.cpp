@@ -14,7 +14,13 @@ int main() {
         std::cout << t1 <<" " ; 
         int news = t1+t2 ;
         t1 = t2 ; 
-        t2 = news ; 
+        t2 = news ;  
+        // calculate 
+        // 0+1 = 1
+        // 1+1 = 2
+        // 1+2 = 3 
+        // 3+5 = 8
+        // 5+8 = 13 
         
     } 
     std::cout <<endl ; 
