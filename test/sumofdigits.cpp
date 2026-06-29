@@ -15,6 +15,7 @@ int main() {
     }
     //  pow(n) ;
     //
+
     num  = o_OfNum ; 
     while (num > 0 ) {
  
