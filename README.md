@@ -1,2 +1,3 @@
-# Generate
+# OpenGL
+# Statistics
 ...
